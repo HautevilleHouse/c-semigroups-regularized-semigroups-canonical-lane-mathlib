@@ -1,0 +1,2 @@
+import CSemigroupsRegularizedSemigroupsCanonicalLaneLean.GateLemmas
+import CSemigroupsRegularizedSemigroupsCanonicalLaneLean.FinalTheorem
